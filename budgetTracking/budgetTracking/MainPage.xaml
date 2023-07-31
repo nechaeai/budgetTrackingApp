@@ -1,0 +1,35 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:microcharts="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             x:Class="budgetTracking.MainPage">
+
+    <StackLayout>
+        <microcharts:ChartView x:Name="chartView" HeightRequest="400" WidthRequest="400" />
+
+        <!-- Place new controls here -->
+
+        <Entry x:Name="DescriptionEntry"
+               Placeholder="Description" />
+
+        <Entry x:Name="AmountEntry"
+               Placeholder="Amount"
+               Keyboard="Numeric" />
+
+        <Button Text="Add Expense"
+                Clicked="OnAdd" />
+
+        <ListView x:Name="expensesListView"
+                  ItemsSource="{Binding Expenses}"
+                  SelectedItem="{Binding SelectedExpense, Mode=TwoWay}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Description}"
+                              Detail="{Binding Amount, StringFormat='{0:C}'}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button Text="Delete Selected Expense"
+                Clicked="OnDelete" />
+
+    </StackLayout>
+</ContentPage>
