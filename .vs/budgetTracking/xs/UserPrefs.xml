@@ -1,19 +1,26 @@
 ﻿<Properties StartupConfiguration="{3D9D00B8-CFF0-4559-8DC8-36159CB99013}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_5x_-_api_28" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.6" />
   <MonoDevelop.Ide.Workbench ActiveDocument="budgetTracking/budgetTracking/MainPage.xaml.cs">
     <Files>
-      <File FileName="budgetTracking/budgetTracking/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="budgetTracking/budgetTracking/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="budgetTracking/budgetTracking/MainPage.xaml" />
+      <File FileName="budgetTracking/budgetTracking/MainPage.xaml.cs" Line="23" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="budgetTracking">
             <Node name="budgetTracking" expanded="True">
-              <Node name="App.xaml" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Xamarin.Essentials" selected="True" />
+                </Node>
+              </Node>
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
             <Node name="budgetTracking.Android" expanded="True" />
@@ -22,9 +29,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.6" />
   <MonoDevelop.Ide.ItemProperties.budgetTracking.Android PreferredExecutionTarget="Android.nexus_5x_-_api_28" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
