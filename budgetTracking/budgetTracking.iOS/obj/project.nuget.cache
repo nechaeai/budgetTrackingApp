@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ds1o1QzYVv6pcHMwKlPz9ZMkQb8GmbkqU4j2A9e+tuRBruVxGVwBALHu6SIpLvzVzQi/CODZMATQqIOa3JqYvA==",
+  "dgSpecHash": "sQvsJdA4hYRbugn2Qvwy3ZE5sFC9fuMpWZAuu1JKOrkvdDfA5hWleu7iBti1uG5PbnmravRMaPByugKlpsTE/A==",
   "success": true,
-  "projectFilePath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking.iOS/budgetTracking.iOS.csproj",
+  "projectFilePath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking.iOS/budgetTracking.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/alekseinecha77/.nuget/packages/microcharts/0.9.5.9/microcharts.0.9.5.9.nupkg.sha512",
     "/Users/alekseinecha77/.nuget/packages/microcharts.forms/0.9.5.9/microcharts.forms.0.9.5.9.nupkg.sha512",

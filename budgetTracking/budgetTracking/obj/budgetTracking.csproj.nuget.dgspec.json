@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking/budgetTracking.csproj": {}
+    "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking/budgetTracking.csproj": {}
   },
   "projects": {
-    "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking/budgetTracking.csproj": {
+    "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking/budgetTracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking/budgetTracking.csproj",
+        "projectUniqueName": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking/budgetTracking.csproj",
         "projectName": "budgetTracking",
-        "projectPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking/budgetTracking.csproj",
+        "projectPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking/budgetTracking.csproj",
         "packagesPath": "/Users/alekseinecha77/.nuget/packages/",
-        "outputPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking/obj/",
+        "outputPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alekseinecha77/.config/NuGet/NuGet.Config"

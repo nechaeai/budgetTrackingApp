@@ -1700,11 +1700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking.iOS/budgetTracking.iOS.csproj",
+      "projectUniqueName": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking.iOS/budgetTracking.iOS.csproj",
       "projectName": "budgetTracking.iOS",
-      "projectPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking.iOS/budgetTracking.iOS.csproj",
+      "projectPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking.iOS/budgetTracking.iOS.csproj",
       "packagesPath": "/Users/alekseinecha77/.nuget/packages/",
-      "outputPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking.iOS/obj/",
+      "outputPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1719,8 +1719,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking/budgetTracking.csproj": {
-              "projectPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackApp/budgetTracking/budgetTracking/budgetTracking/budgetTracking.csproj"
+            "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking/budgetTracking.csproj": {
+              "projectPath": "/Users/alekseinecha77/Desktop/MOBILE DEVICE PROGRAMMING (001)/budgetTrackingApp/budgetTracking/budgetTracking/budgetTracking.csproj"
             }
           }
         }
