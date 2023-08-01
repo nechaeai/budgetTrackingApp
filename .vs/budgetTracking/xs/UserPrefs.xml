@@ -1,25 +1,16 @@
 ﻿<Properties StartupConfiguration="{3D9D00B8-CFF0-4559-8DC8-36159CB99013}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_5x_-_api_28" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.6" />
   <MonoDevelop.Ide.Workbench ActiveDocument="budgetTracking/budgetTracking/MainPage.xaml.cs">
     <Files>
       <File FileName="budgetTracking/budgetTracking/MainPage.xaml" />
-      <File FileName="budgetTracking/budgetTracking/MainPage.xaml.cs" Line="23" Column="38" />
+      <File FileName="budgetTracking/budgetTracking/MainPage.xaml.cs" Line="77" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="budgetTracking">
+          <Node name="budgetTracking" expanded="True">
             <Node name="budgetTracking" expanded="True">
               <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True">
-                  <Node name="Xamarin.Essentials" selected="True" />
-                </Node>
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
@@ -29,6 +20,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.6" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.budgetTracking.Android PreferredExecutionTarget="Android.nexus_5x_-_api_28" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.nexus_5x_-_api_28" />
+  <MultiItemStartupConfigurations />
 </Properties>
